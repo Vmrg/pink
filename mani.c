@@ -1,4 +1,4 @@
-Hi... This is mani frog VRMG. I'm working as a junior developer.
+Hi... This is mani from VRMG. I'm working as a junior developer.
 <<<<<<< HEAD
 My team name is Vismaya
 =======
