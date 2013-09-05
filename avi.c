@@ -1092,4 +1092,11 @@ AviError AVI_close_compress(AviMovie *movie)
 	if (movie->offset_table != NULL)
 		MEM_freeN(movie->offset_table);
 	return AVI_ERROR_NONE;
+
+
 }
+Coding updated
+
+
+
+
