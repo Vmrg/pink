@@ -31,7 +31,7 @@
  *
  * This is external code.
  */
-First line added
+First line added for the training
 #include <stdlib.h>
 #include <string.h>
 #include <stdarg.h>
